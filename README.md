@@ -1,6 +1,9 @@
 # Lab02: SDF Practice
 
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
+# Results
+Shadertoy Link: https://www.shadertoy.com/view/NtcfWl
+![566-Lab-sdf](https://user-images.githubusercontent.com/33616958/191553086-1a75b91f-fe31-4116-a455-bf0bbb9a346c.gif)
 
 # Setup 
 
