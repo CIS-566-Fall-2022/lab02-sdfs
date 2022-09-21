@@ -1,5 +1,14 @@
 # Lab02: SDF Practice
 
+Link to my shadertoy: https://www.shadertoy.com/view/sltfWf
+
+Worked some with Megan Reddy.
+
+I made clouds too.
+
+
+
+
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
 
 # Setup 
