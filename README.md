@@ -21,3 +21,6 @@ Make the animation less terrible! More detailed model, color differentiation for
 - In the README, create a link to your shader toy solutions
 - Make sure your shadertoy is set to UNLISTED or PUBLIC (so we can see them!)
 
+# Submission Content
+- Worked on by San Jewell alone
+- comlpeted requirements, but ran into a few issues with visual correctness on merging: https://www.shadertoy.com/view/7tdBDf
