@@ -1,3 +1,9 @@
+# Solution
+
+Team members: vivian
+
+Shadertoy: https://www.shadertoy.com/view/sldfWf
+
 # Lab02: SDF Practice
 
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
