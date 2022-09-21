@@ -1,6 +1,9 @@
-# Lab02: SDF Practice
+# Lab02: SDF Practice (Lóránt Mikolás)
 
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
+Wayne Wu, Haoquan Lian, Lóránt Mikolas
+
+Link to shadertoy: https://www.shadertoy.com/view/stdBDf
 
 # Setup 
 
