@@ -1,5 +1,9 @@
 # Lab02: SDF Practice
 
+Vivian Tung
+Partner: Elyssa Chou
+https://www.shadertoy.com/view/flcfWl
+
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
 
 # Setup 
