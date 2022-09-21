@@ -2,6 +2,8 @@
 
 Link to my shadertoy: https://www.shadertoy.com/view/sltfWf
 
+Worked some with Megan Reddy.
+
 I made clouds too.
 
 
