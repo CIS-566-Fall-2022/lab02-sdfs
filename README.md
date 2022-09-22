@@ -2,9 +2,11 @@
 
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
 
-# Name/ Link
+# Name
 
 Yuqi Zhang, got help from Dongying Liu, Wenqing Wang
+
+# Link
 https://www.shadertoy.com/view/st3fWs
 
 
