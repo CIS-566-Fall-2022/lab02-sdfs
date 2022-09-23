@@ -1,3 +1,8 @@
+# Shadertoy link
+
+Worked with Rhuta and Joanna!!
+https://www.shadertoy.com/view/fl3BDl
+
 # Lab02: SDF Practice
 
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
