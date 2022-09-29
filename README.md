@@ -1,6 +1,8 @@
 # Lab02: SDF Practice
 
-Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
+[Shadertoy Link](https://www.shadertoy.com/view/7ltBDf)
+
+Partnered with Megan Reddy
 
 # Setup 
 
