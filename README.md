@@ -1,6 +1,6 @@
 # Lab02: SDF Practice
 
-Shadertoy Link: https://www.shadertoy.com/view/7ltBDf
+[Shadertoy Link](https://www.shadertoy.com/view/7ltBDf)
 
 Partnered with Megan Reddy
 
