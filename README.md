@@ -2,6 +2,8 @@
 
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
 
+https://www.shadertoy.com/view/Nt3fDl
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Mushroom Puzzle](https://www.shadertoy.com/view/sstSz2).
