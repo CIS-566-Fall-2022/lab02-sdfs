@@ -1,3 +1,6 @@
+Worked with Logan and Joanna
+https://www.shadertoy.com/view/7ttfDf
+
 # Lab02: SDF Practice
 
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
